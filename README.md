@@ -28,7 +28,7 @@ Dependencies:
 
 - Meteor (install from https://www.meteor.com/install)
 - MeteorClient (`pip install python-meteor`)
-- 
+- Robot Framework (`pip install robotframework`)
 
 
 
