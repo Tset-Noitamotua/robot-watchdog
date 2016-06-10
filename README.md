@@ -14,6 +14,21 @@ Robot Framework to any interested party. With that information one can
 handle the data as it likes. Some exemples include displaying a real-time
 dashboard and storing it in a database for further analisys.
 
-Usage::
+Usage:
+```shell
+$ pybot --listener robotwatchdog tests/
+```
+	
+Installation
+-----------
 
-    $ pybot --listener robotwatchdog tests/
+TODO
+
+Dependencies:
+
+- Meteor (install from https://www.meteor.com/install)
+- MeteorClient (`pip install python-meteor`)
+- 
+
+
+
