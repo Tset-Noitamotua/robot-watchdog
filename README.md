@@ -16,7 +16,7 @@ dashboard and storing it in a database for further analisys.
 
 Usage:
 ```shell
-$ pybot --listener robotwatchdog tests/
+$ pybot --listener robotwatchdog atest/
 ```
 	
 Installation
